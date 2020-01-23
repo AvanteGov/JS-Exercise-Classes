@@ -25,7 +25,7 @@ If you run into trouble while coding, fight the good fight for 20 minutes and th
 1. Clone _your_ fork (not Lambda's repo by mistake!).
 1. `cd` into your newly cloned repository.
 1. Create a new branch by typing `git checkout -b <firstName-lastName>`.
-1. Install dependencies by typing `npm install`.
+1. Install dependencies by typing `npm install`
 1. Run tests by typing `npm run test:watch`.
 1. Work on your branch, push commits and create PR as usual.
 
